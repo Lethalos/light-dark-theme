@@ -1,1 +1,3 @@
-# light-dark-theme
+# Light-Dark Theme
+
+Basic light-dark theme swapper.
