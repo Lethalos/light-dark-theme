@@ -1,8 +1,6 @@
 const sunMoonContainer = document.querySelector(".sun-moon-container");
 const title = document.querySelector(".title");
 
-console.log(getComputedStyle(sunMoonContainer).getPropertyValue("--rotation"));
-
 document.querySelector(".theme-toggle-button").addEventListener("click", () => {
   document.body.classList.toggle("dark");
 
